@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sensor-node-lsm303agr)(type KiCad)(uri ${KIPRJMOD}/sensor-node-lsm303agr.pretty)(options "")(descr ""))
+)

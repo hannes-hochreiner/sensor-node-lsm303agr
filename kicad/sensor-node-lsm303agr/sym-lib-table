@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sensor-node-lsm303agr)(type Legacy)(uri /home/hannes/Repository/sensor-node-lsm303agr/kicad/sensor-node-lsm303agr/sensor-node-lsm303agr.lib)(options "")(descr ""))
+)
