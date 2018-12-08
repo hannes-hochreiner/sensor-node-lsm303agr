@@ -15,6 +15,7 @@ sides: 7.5 mm
   * STMicroelectronics: LSM303AGRTR
   * Digi-Key: [497-16527-1-ND](https://www.digikey.de/product-detail/de/stmicroelectronics/LSM303AGRTR/497-16527-1-ND/6006105)
   * [Datasheet](http://www.st.com/content/ccc/resource/technical/document/datasheet/74/c4/19/54/62/c5/46/13/DM00177685.pdf/files/DM00177685.pdf/jcr:content/translations/en.DM00177685.pdf)
+  * [Application Note](https://www.st.com/resource/en/application_note/dm00265383.pdf)
   * Price: 2.39
 
 ## Passives
